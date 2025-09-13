@@ -54,11 +54,12 @@ table, th, td {
 
 footer {
   background: ##000000;
-  color: white;
+  color: hitam;
   text-align: center;
   padding: 10px;
   position: fixed;
   width: 100%;
   bottom: 0;
 }
+
 
