@@ -53,7 +53,7 @@ table, th, td {
 }
 
 footer {
-  background: #0077b6;
+  background: ##000000;
   color: white;
   text-align: center;
   padding: 10px;
@@ -61,3 +61,4 @@ footer {
   width: 100%;
   bottom: 0;
 }
+
